@@ -1,0 +1,9 @@
+node_modules/
+.pnp
+.env
+.env.local
+*.log
+/dist
+/build
+uploads/
+logs/
